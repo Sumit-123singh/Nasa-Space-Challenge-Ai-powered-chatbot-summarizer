@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+requests
+AIzaSyDabW1oGXsXUTI1i2Hb9NTVwgiYj5aayos
